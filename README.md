@@ -1,3 +1,8 @@
+# Hi, I'm Mario 👋
+- :dart: Focusing on **React / Redux**
+- :mortar_board: Studying at **SoftUni Bulgaria**
+- :books: Professional Experience: Prepress Specialist (6 years)
+
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
