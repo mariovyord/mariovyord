@@ -1,5 +1,5 @@
 # Hi, I'm Mario 👋
-- :dart: Focusing on **ReactJS**
+- :dart: Focusing on **JavaScript** and **TypeScript**
 - :mortar_board: Studying at **SoftUni Bulgaria**
 - :hammer: Professional Experience: Prepress Specialist (6 years)
 
