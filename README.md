@@ -1,6 +1,7 @@
 # Hi, I'm Mario 👋
-- :dart: TypeScript / Angular / React
+
 - 🛠️: Junior Web Developer
+- :dart: TypeScript / Angular / React
 - :tv: [https://mariovyord.vercel.app/](https://mariovyord.vercel.app)
 
 ### :hammer_and_wrench: Languages and Tools
