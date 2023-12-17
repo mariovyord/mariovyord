@@ -1,7 +1,7 @@
 # Hi, I'm Mario 👋
 
-- 🛠️ Web Developer
-- :dart: TypeScript / Angular / React
+- 🛠️ Web Developer 
+- :fire: JavaScript | TypeScript 
 
 ### :hammer_and_wrench: Languages and Tools
 
