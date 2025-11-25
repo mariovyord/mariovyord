@@ -1,7 +1,7 @@
 # Hi, I'm Mario 👋
 
 - 🛠️ Web Developer 
-- :fire: JavaScript | TypeScript | Java
+- :fire: JavaScript | TypeScript
 
 ### :hammer_and_wrench: Languages and Tools
 
